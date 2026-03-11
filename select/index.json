@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Aria（feat. ねんね）",
+  "base_artist": "*Luna",
+  "createdAt": "2026-03-11T10:53:33.941950Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aria (feat. Christina Marie)",
+      "artist": "Andy Gillion",
+      "has_synced": true,
+      "path": "select/01_Aria_(feat._Christina_Marie)_Andy_Gillion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aria (feat. IRBIS 37)",
+      "artist": "Jack Out feat. K beezy 28 & IRBIS 37",
+      "has_synced": true,
+      "path": "select/02_Aria_(feat._IRBIS_37)_Jack_Out_feat._K_beezy_28_&_IRBIS_37.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aria (feat. IRBIS 37)",
+      "artist": "Jack Out",
+      "has_synced": true,
+      "path": "select/03_Aria_(feat._IRBIS_37)_Jack_Out.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From Aria (Feat. Aria Kissel)",
+      "artist": "Brett Kissel",
+      "has_synced": true,
+      "path": "select/04_From_Aria_(Feat._Aria_Kissel)_Brett_Kissel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aria (feat. Fabri Fibra) - prod. Kanesh, Yves The Male",
+      "artist": "Dani Faiv feat. Fabri Fibra",
+      "has_synced": true,
+      "path": "select/05_Aria_(feat._Fabri_Fibra)_-_prod._Kanesh,_Yves_The_Male_Dani_Faiv_feat._Fabri_Fibra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aria (feat. Fabri Fibra)",
+      "artist": "Dani Faiv",
+      "has_synced": true,
+      "path": "select/06_Aria_(feat._Fabri_Fibra)_Dani_Faiv.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Denial's Aria (feat. Keturah, VikKe & Duo Scorpio)",
+      "artist": "Earthside",
+      "has_synced": true,
+      "path": "select/07_Denial's_Aria_(feat._Keturah,_VikKe_&_Duo_Scorpio)_Earthside.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aria feat. Mediæval Bæbes",
+      "artist": "Delerium",
+      "has_synced": false,
+      "path": "select/08_Aria_feat._Mediæval_Bæbes_Delerium.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Wings Aria (feat. Joan Silentio)",
+      "artist": "Aurelleah",
+      "has_synced": true,
+      "path": "select/09_My_Wings_Aria_(feat._Joan_Silentio)_Aurelleah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aria (feat. Fabri Fibra)",
+      "artist": "Dani Faiv/ Fabri Fibra",
+      "has_synced": true,
+      "path": "select/10_Aria_(feat._Fabri_Fibra)_Dani_Faiv__Fabri_Fibra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vivi Nell Aria (feat. Miani) (Manian remix)",
+      "artist": "Gabry Ponte",
+      "has_synced": true,
+      "path": "select/11_Vivi_Nell_Aria_(feat._Miani)_(Manian_remix)_Gabry_Ponte.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vivi Nell Aria (feat. Miani) (Manian remix)",
+      "artist": "Ponte, Gabry",
+      "has_synced": true,
+      "path": "select/12_Vivi_Nell_Aria_(feat._Miani)_(Manian_remix)_Ponte,_Gabry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aria Feat. The Mediæval Bæbes",
+      "artist": "Delerium",
+      "has_synced": false,
+      "path": "select/13_Aria_Feat._The_Mediæval_Bæbes_Delerium.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "In aria (feat. Guè)",
+      "artist": "Entics",
+      "has_synced": true,
+      "path": "select/14_In_aria_(feat._Guè)_Entics.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aria (feat. Fabri Fibra) - prod. Kanesh, Yves The Male",
+      "artist": "Dani Faiv",
+      "has_synced": true,
+      "path": "select/15_Aria_(feat._Fabri_Fibra)_-_prod._Kanesh,_Yves_The_Male_Dani_Faiv.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vivi Nell’ Aria (feat. Miani) (Harris & Ford Remix)",
+      "artist": "Hard But Crazy",
+      "has_synced": false,
+      "path": "select/16_Vivi_Nell’_Aria_(feat._Miani)_(Harris_&_Ford_Remix)_Hard_But_Crazy.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aria feat. The Mediaeval Baebe",
+      "artist": "Delerium",
+      "has_synced": false,
+      "path": "select/17_Aria_feat._The_Mediaeval_Baebe_Delerium.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Aria (feat. The Mediaeval Baebes)",
+      "artist": "Delerium",
+      "has_synced": false,
+      "path": "select/18_Aria_(feat._The_Mediaeval_Baebes)_Delerium.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aria",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_Aria_Luna_feat._ねんね.txt"
+    }
+  ]
+}
